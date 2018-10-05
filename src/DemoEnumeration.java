@@ -2,7 +2,7 @@ import java.util.Enumeration;
 import java.util.Vector;
 
 public class DemoEnumeration {
-
+// TODO Auto-generated method stub
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Enumeration<String> days;//Enumeration声明的方法
