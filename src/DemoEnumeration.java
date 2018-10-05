@@ -1,4 +1,4 @@
-import java.util.Enumeration;
+﻿import java.util.Enumeration;
 import java.util.Vector;
 
 public class DemoEnumeration {
@@ -24,3 +24,4 @@ public class DemoEnumeration {
 	}
 
 }
+// TODO Auto-generated method stub
