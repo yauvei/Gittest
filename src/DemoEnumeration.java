@@ -1,6 +1,6 @@
 ﻿import java.util.Enumeration;
 import java.util.Vector;
-
+//test1006
 public class DemoEnumeration {
 // TODO Auto-generated method stub
 	public static void main(String[] args) {
