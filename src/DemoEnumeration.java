@@ -25,3 +25,4 @@ public class DemoEnumeration {
 
 }
 // TODO Auto-generated method stub
+//test1006
